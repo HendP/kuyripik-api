@@ -1,3 +1,240 @@
 {
-    
+    "products": [
+        {
+            "code": "Keripik-01",
+            "description": "Keripik rasa original",
+            "id": 1,
+            "level": 1,
+            "product_name": "Keripik Original",
+            "stock": 100,
+            "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/original.png"
+        },
+        {
+            "code": "Keripik-02",
+            "description": "Keripik rasa lada",
+            "id": 2,
+            "level": 1,
+            "product_name": "Keripik Lada",
+            "stock": 100,
+            "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/lada.png"
+        },
+        {
+            "code": "Keripik-03",
+            "description": "Keripik rasa asin",
+            "id": 3,
+            "level": 1,
+            "product_name": "Keripik Asin",
+            "stock": 100,
+            "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/asin.png"
+        },
+        {
+            "code": "Keripik-04",
+            "description": "Keripik rasa manis",
+            "id": 4,
+            "level": 1,
+            "product_name": "Keripik Manis",
+            "stock": 100,
+            "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/manis.png"
+        }
+    ],
+    "detil_products": [
+        {
+            "code": "Keripik-01",
+            "description": "Keripik rasa original",
+            "id": 1,
+            "level": 1,
+            "product_name": "Keripik Original",
+            "stock": 100,
+            "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/original.png",
+            "all_product": [
+                {
+                    "code": "Keripik-02",
+                    "description": "Keripik rasa lada",
+                    "id": 2,
+                    "level": 1,
+                    "product_name": "Keripik Lada",
+                    "stock": 100,
+                    "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/lada.png"
+                },
+                {
+                    "code": "Keripik-03",
+                    "description": "Keripik rasa asin",
+                    "id": 3,
+                    "level": 1,
+                    "product_name": "Keripik Asin",
+                    "stock": 100,
+                    "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/asin.png"
+                },
+                {
+                    "code": "Keripik-04",
+                    "description": "Keripik rasa manis",
+                    "id": 4,
+                    "level": 1,
+                    "product_name": "Keripik Manis",
+                    "stock": 100,
+                    "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/manis.png"
+                }
+            ]
+        },
+        {
+            "code": "Keripik-02",
+            "description": "Keripik rasa lada",
+            "id": 2,
+            "level": 1,
+            "product_name": "Keripik Lada",
+            "stock": 100,
+            "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/lada.png",
+            "all_product": [
+                {
+                    "code": "Keripik-01",
+                    "description": "Keripik rasa original",
+                    "id": 1,
+                    "level": 1,
+                    "product_name": "Keripik Original",
+                    "stock": 100,
+                    "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/original.png"
+                },
+                {
+                    "code": "Keripik-03",
+                    "description": "Keripik rasa asin",
+                    "id": 3,
+                    "level": 1,
+                    "product_name": "Keripik Asin",
+                    "stock": 100,
+                    "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/asin.png"
+                },
+                {
+                    "code": "Keripik-04",
+                    "description": "Keripik rasa manis",
+                    "id": 4,
+                    "level": 1,
+                    "product_name": "Keripik Manis",
+                    "stock": 100,
+                    "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/manis.png"
+                }
+            ]
+        },
+        {
+            "code": "Keripik-03",
+            "description": "Keripik rasa asin",
+            "id": 3,
+            "level": 1,
+            "product_name": "Keripik Asin",
+            "stock": 100,
+            "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/asin.png",
+            "all_product": [
+                {
+                    "code": "Keripik-01",
+                    "description": "Keripik rasa original",
+                    "id": 1,
+                    "level": 1,
+                    "product_name": "Keripik Original",
+                    "stock": 100,
+                    "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/original.png"
+                },
+                {
+                    "code": "Keripik-02",
+                    "description": "Keripik rasa lada",
+                    "id": 2,
+                    "level": 1,
+                    "product_name": "Keripik Lada",
+                    "stock": 100,
+                    "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/lada.png"
+                },
+                {
+                    "code": "Keripik-04",
+                    "description": "Keripik rasa manis",
+                    "id": 4,
+                    "level": 1,
+                    "product_name": "Keripik Manis",
+                    "stock": 100,
+                    "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/manis.png"
+                }
+            ]
+        },
+        {
+            "code": "Keripik-04",
+            "description": "Keripik rasa manis",
+            "id": 4,
+            "level": 1,
+            "product_name": "Keripik Manis",
+            "stock": 100,
+            "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/manis.png",
+            "all_product": [
+                {
+                    "code": "Keripik-01",
+                    "description": "Keripik rasa original",
+                    "id": 1,
+                    "level": 1,
+                    "product_name": "Keripik Original",
+                    "stock": 100,
+                    "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/original.png"
+                },
+                {
+                    "code": "Keripik-02",
+                    "description": "Keripik rasa lada",
+                    "id": 2,
+                    "level": 1,
+                    "product_name": "Keripik Lada",
+                    "stock": 100,
+                    "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/lada.png"
+                },
+                {
+                    "code": "Keripik-03",
+                    "description": "Keripik rasa asin",
+                    "id": 3,
+                    "level": 1,
+                    "product_name": "Keripik Asin",
+                    "stock": 100,
+                    "thumb": "https://raw.githubusercontent.com/HendP/kuyripik-api/master/images/asin.png"
+                }
+            ]
+        }
+    ],
+    "cart": [],
+    "order": [
+        {
+            "city": "Cimahi Tengah",
+            "email": "ruby.ilhamsyah@gmail.com",
+            "first_name": "Arbby",
+            "last_name": "Yudha",
+            "method": "gopay",
+            "order_code": "QNI4JENO8",
+            "phone": "088123123223",
+            "products": [
+                {
+                    "product_code": "HJW947591F",
+                    "product_img": "https://api.omiyago.com/webroot/img/p/4/8/1/2/4812.jpg",
+                    "product_name": "Ripik Cabai Hijau",
+                    "qty": 5,
+                    "subtotal": "60000"
+                },
+                {
+                    "product_code": "KRI72K23Q1",
+                    "product_img": "",
+                    "product_name": "Ripik Kari",
+                    "qty": 12,
+                    "subtotal": "144000"
+                },
+                {
+                    "product_code": "JRK023KO25",
+                    "product_img": "",
+                    "product_name": "Ripik dauh jeruk",
+                    "qty": 8,
+                    "subtotal": "96000"
+                },
+                {
+                    "product_code": "HTM45021KL",
+                    "product_img": "",
+                    "product_name": "Ripik Lada Hitam",
+                    "qty": 10,
+                    "subtotal": "120000"
+                }
+            ],
+            "status": "Pembayaran belum terselesaikan.",
+            "street_address": "Jl. Contong",
+            "time": 1608461960372,
+            "total_belanja": 420000
+        }
+    ]
 }
